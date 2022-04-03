@@ -1,1 +1,1 @@
-https://b-tamilselvan.github.io/tin-dog/
+https://tindog-bytamil.netlify.app
